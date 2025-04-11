@@ -203,7 +203,7 @@ async def get_readable_message(
         status="All",
         page_step=1
     ):
-    msg = "<a href='https://t.me/MonarchCloudUpdates">🚀Bot By Monarch-Cloud</a>\n"
+    msg = "<a href='https://t.me/MonarchCloudUpdates'>🚀Bot By Monarch-Cloud</a>\n"
     button = None
 
     tasks = await sync_to_async(
